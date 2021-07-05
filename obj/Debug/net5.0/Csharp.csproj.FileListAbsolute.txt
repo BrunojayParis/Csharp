@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.exe
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.deps.json
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\ref\Csharp.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\bin\Debug\net5.0\Csharp.pdb
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\ref\Csharp.dll
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.pdb
+C:\Users\bruno\OneDrive\Documents\GitHub\Csharp\obj\Debug\net5.0\Csharp.genruntimeconfig.cache
